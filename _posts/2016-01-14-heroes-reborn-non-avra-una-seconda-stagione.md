@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T12:52:59.095Z'
-dateModified: '2016-01-14T12:52:04.833Z'
+datePublished: '2016-01-14T13:50:18.405Z'
+dateModified: '2016-01-14T13:50:06.989Z'
 title: Heroes Reborn non avrà una seconda stagione
 author: []
 sourcePath: _posts/2016-01-14-heroes-reborn-non-avra-una-seconda-stagione.md
