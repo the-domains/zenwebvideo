@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://www.blackmagicdesign.com'
   name: Blackmagicdesign
-  favicon: 'https://www.blackmagicdesign.com/favicon.ico'
   domain: www.blackmagicdesign.com
+  url: 'https://www.blackmagicdesign.com'
+  favicon: 'https://www.blackmagicdesign.com/favicon.ico'
 keywords:
   - fusion
   - effects
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.blackmagicdesign.com/it/products/fusion'
 title: 'Blackmagic Design: Fusion'
-datePublished: '2016-01-14T14:50:10.910Z'
-dateModified: '2016-01-14T14:47:26.007Z'
+datePublished: '2016-01-14T18:58:23.498Z'
+dateModified: '2016-01-14T18:58:10.545Z'
 sourcePath: _posts/2016-01-14-blackmagic-design-fusion.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
