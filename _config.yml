@@ -2,6 +2,7 @@ name: Zenwebvideo
 favicon: null
 layout_spectrum: 0.74972
 typography_spectrum: 0.3379
+title: The video site for your needs
 cta:
   domain: null
   bucket: null
