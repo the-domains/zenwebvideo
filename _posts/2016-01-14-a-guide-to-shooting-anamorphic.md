@@ -5,22 +5,25 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://vimeo.com/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://vimeo.com/favicon.ico'
 keywords: []
 description: 'A group of test shots and explained benefits of shooting anamorphic. You can download a PDF guide from EOSHD http://www.eoshd.com/anamorphic-guide Adapters and other resources can be found at vid-Atlantic http://vid-atlantic.com/'
 app_links: []
 isBasedOnUrl: 'https://vimeo.com/73508802'
 title: A guide to shooting anamorphic
-datePublished: '2016-01-14T11:20:15.791Z'
-dateModified: '2016-01-14T11:19:02.176Z'
+datePublished: '2016-01-14T18:58:30.414Z'
+dateModified: '2016-01-14T18:58:27.352Z'
 sourcePath: _posts/2016-01-14-a-guide-to-shooting-anamorphic.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
