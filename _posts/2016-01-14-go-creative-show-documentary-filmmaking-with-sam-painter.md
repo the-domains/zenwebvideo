@@ -1,17 +1,10 @@
 ---
-author:
-  - name: Matthew Allard ACS
-    url: null
-    avatar: {}
-  - name: Visit website
-    url: 'http://www.antlerimages.com'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.newsshooter.com'
-  name: Newsshooter
-  favicon: 'http://www.newsshooter.com/wp-content/uploads/2015/11/cropped-newsshooter-sitelogo-192x192.png'
-  domain: www.newsshooter.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.newsshooter.com/2016/01/11/go-creative-show-documentary-filmmaking-with-sam-painter/'
+inLanguage: en
+starred: false
 keywords:
   - sam
   - lifestyles
@@ -24,19 +17,28 @@ keywords:
   - documentary
   - entertainment
 description: "On this week's Go Creative podcast, host Ben Consoli talks to Sam Painter, the cinematographer behind some of the most influential modern documentaries including Going Clear and Steve Jobs: The Man in the Machine. In the podcast they discuss Sam's lighting and shooting techniques, and how he creates beautiful realism in his work."
-inLanguage: en
+datePublished: '2016-01-14T12:56:08.988Z'
+dateModified: '2016-01-14T11:24:21.774Z'
+author:
+  - name: Matthew Allard ACS
+    url: null
+    avatar: {}
+  - name: Visit website
+    url: 'http://www.antlerimages.com'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.newsshooter.com/2016/01/11/go-creative-show-documentary-filmmaking-with-sam-painter/'
 title: 'Go Creative Show: Documentary Filmmaking with Sam Painter'
-datePublished: '2016-01-14T10:54:47.282Z'
-dateModified: '2016-01-14T10:53:01.170Z'
 sourcePath: _posts/2016-01-14-go-creative-show-documentary-filmmaking-with-sam-painter.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Newsshooter
+  domain: www.newsshooter.com
+  url: 'http://www.newsshooter.com'
+  favicon: 'http://www.newsshooter.com/wp-content/uploads/2015/11/cropped-newsshooter-sitelogo-192x192.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Go Creative Show&amp;colon; Documentary Filmmaking with Sam Painter</h1><p>On this week's Go Creative podcast&amp;comma; host Ben Consoli talks to Sam Painter&amp;comma; the cinematographer behind some of the most influential modern documentaries including Going Clear and Steve Jobs&amp;colon; The Man in the Machine&amp;period; In the podcast they discuss Sam's lighting and shooting techniques&amp;comma; and how he creates beautiful realism in his work&amp;period;</p><img src="http://www.newsshooter.com/wp-content/uploads/2016/01/image1-716x403.jpg" /></article>
+<article style=""><h1>Go Creative Show: Documentary Filmmaking with Sam Painter</h1><p>On this week's Go Creative podcast, host Ben Consoli talks to Sam Painter, the cinematographer behind some of the most influential modern documentaries including Going Clear and Steve Jobs: The Man in the Machine. In the podcast they discuss Sam's lighting and shooting techniques, and how he creates beautiful realism in his work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4e36b83fb739ee6e321161ce5ea635028f94d7b.jpg" /></article>
