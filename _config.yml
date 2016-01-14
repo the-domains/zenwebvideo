@@ -1,7 +1,7 @@
 name: Zenwebvideo
 favicon: null
-layout_spectrum: 0.23172
-typography_spectrum: 0.30115
+layout_spectrum: 0.25121
+typography_spectrum: 0.36353
 title: The video site for your needs
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
