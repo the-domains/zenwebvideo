@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T06:15:56.607Z'
+datePublished: '2016-08-31T06:17:04.327Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T06:15:15.927Z'
+dateModified: '2016-08-31T06:17:04.237Z'
 title: ''
 publisher: {}
 description: First sample with beta2
-starred: false
 sourcePath: _posts/2016-08-31-first-sample-with-beta2.md
+starred: false
 _type: Blurb
 
 ---
