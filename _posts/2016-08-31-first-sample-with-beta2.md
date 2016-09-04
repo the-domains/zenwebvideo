@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-31T06:17:04.327Z'
+datePublished: '2016-09-01T10:16:09.469Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T06:17:04.237Z'
+dateModified: '2016-09-01T10:16:09.312Z'
 title: ''
 publisher: {}
 description: First sample with beta2
